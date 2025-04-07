@@ -19,7 +19,8 @@ Python 3.8+
 pandas, numpy, matplotlib, seaborn
 scikit-learn
 
-NOTE:To access the data set in the code, you need to download the data 
+NOTE:
+To access the data set in the code, you need to download the data 
 file from the link below and copy it to the required file path. 
 I also added a section containing the data link as a comment to the code so that you can run the code without the file.
 You can also run the code using this section.
